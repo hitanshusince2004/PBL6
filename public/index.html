@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global Reforestation Tracker</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+</head>
+<body>
+
+    <header>
+        <h1>🌍 Global Reforestation Tracker</h1>
+    </header>
+
+    <div class="container">
+        <!-- Sidebar: Reforestation Projects -->
+        <div class="sidebar">
+            <h2>🌿 Reforestation Projects</h2>
+            <input type="text" id="search-bar" placeholder="Search projects..." onkeyup="filterProjects()">
+            <ul id="project-list">
+                <li>Loading data...</li>
+            </ul>
+        </div>
+
+        <!-- Map Section -->
+        <div id="map"></div>
+
+        <!-- NGO Section -->
+        <div class="ngo-section">
+            <h2>🌱 NGOs Supporting Reforestation</h2>
+            <ul id="ngo-list">
+                <li>🌳 <strong>WWF</strong> - Protecting forests globally</li>
+                <li>🌲 <strong>One Tree Planted</strong> - Reforestation worldwide</li>
+                <li>🌴 <strong>Rainforest Alliance</strong> - Sustainable forest management</li>
+                <li>🌾 <strong>Eden Reforestation Projects</strong> - Community-driven tree planting</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Project Details Section -->
+    <div class="details">
+        <h2>📝 Project Details</h2>
+        <p id="project-details">Click on a project to view details...</p>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <p>© 2025 Global Reforestation Tracker | <a href="#">Privacy Policy</a> | <a href="#">Contact Us</a></p>
+    </footer>
+
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
