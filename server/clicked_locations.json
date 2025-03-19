@@ -1,0 +1,72 @@
+[
+  {
+    "lat": 24.5854,
+    "lng": 73.7125,
+    "name": "Udaipur"
+  },
+  {
+    "lat": 23.2599,
+    "lng": 77.4126,
+    "name": "Bhopal"
+  },
+  {
+    "lat": 22.5726,
+    "lng": 88.3639,
+    "name": "Kolkata"
+  },
+  {
+    "lat": 22.5726,
+    "lng": 88.3639,
+    "name": "Kolkata"
+  },
+  {
+    "lat": 25.6748,
+    "lng": 94.1102,
+    "name": "Kohima"
+  },
+  {
+    "lat": 12.2958,
+    "lng": 76.6394,
+    "name": "Mysore"
+  },
+  {
+    "lat": 22.2736,
+    "lng": 70.7513,
+    "name": "Rajkot"
+  },
+  {
+    "lat": 19.076,
+    "lng": 72.8777,
+    "name": "Mumbai"
+  },
+  {
+    "lat": 19.2183,
+    "lng": 73.1645,
+    "name": "Kalyan"
+  },
+  {
+    "lat": 19.9975,
+    "lng": 73.7898,
+    "name": "Nashik"
+  },
+  {
+    "lat": 23.1765,
+    "lng": 79.9864,
+    "name": "Jabalpur"
+  },
+  {
+    "lat": 20.2961,
+    "lng": 85.8245,
+    "name": "Bhubaneswar"
+  },
+  {
+    "lat": 20.2961,
+    "lng": 85.8245,
+    "name": "Bhubaneswar"
+  },
+  {
+    "lat": 22.5726,
+    "lng": 88.3639,
+    "name": "Kolkata"
+  }
+]

@@ -1,3 +1,6 @@
+/* index.css */
+@import "https://unpkg.com/leaflet@1.9.4/dist/leaflet.css";
+
 /* Reset and Global Styles */
 body, html {
     margin: 0;
